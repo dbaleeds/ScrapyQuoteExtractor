@@ -1,4 +1,4 @@
-# ScrapyQuoteExtractor
+# Scrapy Quote Extractor
 
 A experiment using Scrapy to pull out quotes from a quote website. 
 
